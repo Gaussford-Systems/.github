@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="images/banner.png" alt="Gaussford Banner"/>
+</p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Secure-Systems-0A84FF?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Modern-Web-111827?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open-Source-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Built_with-Next.js-black?style=for-the-badge">
+
+</p>
 <div align="center">
 
 # Gaussford Systems
