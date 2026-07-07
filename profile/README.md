@@ -16,7 +16,7 @@
 
 ---
 
-<img src="profile/images/banner.png" width="100%" alt="Gaussford Systems"/>
+<img src="images/banner.png" width="100%" alt="Gaussford Systems"/>
 
 <br>
 
